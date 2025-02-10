@@ -2,14 +2,18 @@
 Herramienta de enumeración en paginas WordPress
 
 # Instalación 
-git clone https://github.com/tu_usuario/WpsEnum.git
-cd WpsEnum
-chmod +x wpsenum.sh
-bash wpsenum.sh
+- git clone https://github.com/tu_usuario/WpsEnum.git
+- cd WpsEnum
+- chmod +x wpsenum.sh
+- bash wpsenum.sh
+
+Para hacer el ataque DOS tienes que instalar la herramienta de doser.go 
+https://github.com/Quitten/doser.go
+
 
 # Características
 
-![image](https://github.com/user-attachments/assets/c97d46a3-33f1-472e-946b-c32581653741)
+![image](https://github.com/user-attachments/assets/ecaee405-9c73-491c-9308-f04c4fb23a31)
 
 
 ✅ **Escaneo con whatweb** para detectar si el sitio usa WordPress.  
