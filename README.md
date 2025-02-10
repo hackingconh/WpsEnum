@@ -9,6 +9,9 @@ bash wpsenum.sh
 
 # Características
 
+![image](https://github.com/user-attachments/assets/c97d46a3-33f1-472e-946b-c32581653741)
+
+
 ✅ **Escaneo con whatweb** para detectar si el sitio usa WordPress.  
 ✅ **Búsqueda de usuarios** en la instalación de WordPress.  
 ✅ **Verificación de directorios sensibles** y configuración de seguridad.  
